@@ -1,1 +1,2 @@
 This is the first stage of getting started with dev-ops
+Second line added to the base
